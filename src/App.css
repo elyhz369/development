@@ -1,0 +1,21 @@
+body{
+  margin: 2%;
+  /* display: grid;
+  grid-template-columns: 20% 20% 20% 20% 20%;
+  grid-row: 100px, 1fr; */
+}
+
+h1{
+  font-family: 'Courier New', Courier, monospace;
+  font-size:320%;
+  font-weight: lighter;
+}
+
+h2{
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: lighter;
+  grid-column: 4/6;
+  grid-row: 1/2;
+}
+
+
